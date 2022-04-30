@@ -1,5 +1,7 @@
 ### Hi, I'm Mike 👋
 
+![](calvin-and-hobbes.gif)
+
 <!--
 **mrecachinas/mrecachinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
